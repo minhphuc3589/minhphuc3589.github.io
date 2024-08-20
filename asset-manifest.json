@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db43cb51.css",
+    "main.js": "/static/js/main.b7abbe72.js",
+    "static/js/453.ccc6a9a9.chunk.js": "/static/js/453.ccc6a9a9.chunk.js",
+    "static/media/newAvt.jpg": "/static/media/newAvt.23614c33c1fb493da1bc.jpg",
+    "static/media/image.jpg": "/static/media/image.9b1c48419ac53f1f4067.jpg",
+    "index.html": "/index.html",
+    "main.db43cb51.css.map": "/static/css/main.db43cb51.css.map",
+    "main.b7abbe72.js.map": "/static/js/main.b7abbe72.js.map",
+    "453.ccc6a9a9.chunk.js.map": "/static/js/453.ccc6a9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db43cb51.css",
+    "static/js/main.b7abbe72.js"
+  ]
+}
